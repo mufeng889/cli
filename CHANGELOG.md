@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [v0.0.6](https://github.com/mufeng889/cli/compare/v0.0.5...v0.0.6) (2024-11-14)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **packages**:
+  - update publishConfig &nbsp;-&nbsp; by **wang** [<samp>(6235b)</samp>](https://github.com/mufeng889/cli/commit/6235bd7)
+  - update package info &nbsp;-&nbsp; by **wang** [<samp>(54efc)</samp>](https://github.com/mufeng889/cli/commit/54efc92)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+
+[wang](mailto:1509326266@qq.com)
+
 ## [v0.0.5](https://github.com/mufeng889/cli/compare/v0.0.4...v0.0.5) (2024-11-14)
 
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors

@@ -1,7 +1,7 @@
 {
   "name": "@ohh-889/cli",
   "type": "module",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "packageManager": "pnpm@9.9.0",
   "description": "Ohh's command line tools",
   "author": {
