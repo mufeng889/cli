@@ -1,6 +1,10 @@
 # Changelog
 
 
+## [v0.0.5](https://github.com/mufeng889/cli/compare/v0.0.4...v0.0.5) (2024-11-14)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
 ## [v0.0.4](https://github.com/mufeng889/cli/compare/v0.0.3...v0.0.4) (2024-11-14)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
