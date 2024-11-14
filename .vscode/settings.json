@@ -1,0 +1,15 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "eslint.useFlatConfig": true,
+  "editor.formatOnSave": false,
+  "eslint.validate": ["html", "css", "json", "jsonc"],
+  "prettier.enable": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "package.json": "package-lock.json, pnpm*, eslint*, .editorconfig,.gitattributes,.gitignore,.npmrc,.prettierrc",
+    "README.md": "README*,LICENSE,CHANGELOG*,vercel.json"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Vue Debugger",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:9527",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "TS Debugger tsx",
+      "type": "node",
+      "request": "launch",
+      "program": "${file}",
+      "runtimeExecutable": "tsx",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "skipFiles": ["<node_internals>/**", "${workspaceFolder}/node_modules/**"]
+    }
+  ]
+}

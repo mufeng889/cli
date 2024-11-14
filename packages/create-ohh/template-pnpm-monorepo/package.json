@@ -1,0 +1,33 @@
+{
+  "name": "pnpm-monorepo",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "pnpm@9.13.0",
+  "scripts": {
+    "cleanup": "soy cleanup",
+    "commit": "soy git-commit",
+    "lint": "eslint . --fix",
+    "prepare": "simple-git-hooks",
+    "release": "soy release",
+    "typecheck": "tsc --noEmit --skipLibCheck",
+    "update-pkg": "soy ncu"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@soybeanjs/cli": "1.1.1",
+    "@soybeanjs/eslint-config": "1.4.2",
+    "eslint": "9.14.0",
+    "lint-staged": "15.2.10",
+    "simple-git-hooks": "2.11.1",
+    "tsx": "4.19.2",
+    "typescript": "5.6.3"
+  },
+  "simple-git-hooks": {
+    "commit-msg": "pnpm soy git-commit-verify",
+    "pre-commit": "pnpm typecheck && pnpm lint-staged"
+  },
+  "lint-staged": {
+    "*": "eslint --fix"
+  }
+}
