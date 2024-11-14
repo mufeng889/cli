@@ -1,6 +1,6 @@
 # create-soybean
 
-SoybeanJS's command line to create different project templates
+Ohh's command line to create different project templates
 
 ## currently support
 
