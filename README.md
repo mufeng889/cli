@@ -1,13 +1,13 @@
-# @soybeanjs/cli
+# @ohh/cli
 
-SoybeanJS 的命令行工具
+Ohh 的命令行工具
 
 ## 用法
 
 ### 安装
 
 ```bash
-pnpm i -D @soybeanjs/cli
+pnpm i -D @ohh/cli
 ```
 
 ### 使用
@@ -37,7 +37,7 @@ pnpm soy -h
 - 导入 defineConfig 函数
 
   ```ts
-  import { defineConfig } from '@soybeanjs/cli';
+  import { defineConfig } from '@ohh/cli';
 
   export default defineConfig({
     // options
@@ -47,5 +47,5 @@ pnpm soy -h
 - 配置参考
 
   ```ts
-  import type { CliOption } from '@soybeanjs/cli';
+  import type { CliOption } from '@ohh/cli';
   ```
