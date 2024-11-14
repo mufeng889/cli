@@ -1,6 +1,17 @@
 # Changelog
 
 
+## [v0.0.4](https://github.com/mufeng889/cli/compare/v0.0.3...v0.0.4) (2024-11-14)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **packages**: update README &nbsp;-&nbsp; by **wang** [<samp>(c61e1)</samp>](https://github.com/mufeng889/cli/commit/c61e116)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+
+[wang](mailto:1509326266@qq.com)
+
 ## [v0.0.3](https://github.com/mufeng889/cli/compare/undefined...v0.0.3) (2024-11-14)
 
 ### &nbsp;&nbsp;&nbsp;🚀 Features
