@@ -1,4 +1,4 @@
-# create-soybean
+# create-ohh
 
 Ohh's command line to create different project templates
 

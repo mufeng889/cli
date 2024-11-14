@@ -10,12 +10,12 @@
     "url": "https://github.com/mufeng889"
   },
   "license": "MIT",
-  "homepage": "https://github.com/mufeng889/cli.git",
+  "homepage": "https://github.com/mufeng889/cli",
   "repository": {
-    "url": "https://github.com/mufeng889/cli.git.git"
+    "url": "https://github.com/mufeng889/cli.git"
   },
   "bugs": {
-    "url": "https://github.com/mufeng889/cli.git/issues"
+    "url": "https://github.com/mufeng889/cli/issues"
   },
   "publishConfig": {
     "access": "public",
