@@ -38,7 +38,7 @@ interface CommandArg {
 async function setupCli() {
   const cliOptions = await loadCliOptions();
 
-  const cli = cac('soybean');
+  const cli = cac('ohh');
 
   cli
     .version(version)
@@ -52,7 +52,10 @@ async function setupCli() {
       '-c, --cleanupDir <dir>',
       'The glob pattern of dirs to cleanup, If not set, it will use the default value, Multiple values use "," to separate them'
     )
-    .option('-l, --lang <lang>', 'display lang of cli', { default: 'zh-cn', type: [String] })
+    .option('-l, --lang <lang>', 'display lang of cli', {
+      default: 'zh-cn',
+      type: [String]
+    })
     .help();
 
   const commands: CommandWithAction<CommandArg> = {
