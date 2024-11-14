@@ -1,6 +1,17 @@
 # Changelog
 
 
+## [v0.0.7](https://github.com/mufeng889/cli/compare/v0.0.6...v0.0.7) (2024-11-14)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **projects**: update info &nbsp;-&nbsp; by **wang** [<samp>(5929c)</samp>](https://github.com/mufeng889/cli/commit/5929c8d)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+
+[wang](mailto:1509326266@qq.com)
+
 ## [v0.0.6](https://github.com/mufeng889/cli/compare/v0.0.5...v0.0.6) (2024-11-14)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
